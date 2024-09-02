@@ -28,7 +28,5 @@ export default {
 </script>
 
 <style>
-.FormComponent{
-  align-self: start;
-}
+
 </style>

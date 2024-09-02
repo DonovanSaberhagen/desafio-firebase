@@ -42,8 +42,7 @@
   <style scoped>
 
 .table {
-    padding-left: 15%;
-    width: 600px;
+    width: 800px;
 }
 
   table {
@@ -58,11 +57,11 @@
   }
   
   th {
-    background-color: #f4f4f4;
+    background-color: #a1dff8;
   }
   
   button {
-    background-color: #f44336;
+    background-color: #1d149e;
     color: white;
     border: none;
     padding: 5px 10px;
@@ -70,6 +69,6 @@
   }
   
   button:hover {
-    background-color: #d32f2f;
+    background-color: #f10a0a;
   }
   </style>

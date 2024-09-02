@@ -25,8 +25,8 @@ export default {
 <style>
 .HomeView {
   display: flex;
-  flex-direction: row;
-  align-items: center;
-  padding: 5% 0 10% 10%;
+  flex-direction: column;
+  align-items: start;
+  padding: 4% 2%;
 }
 </style>
